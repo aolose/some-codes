@@ -1,0 +1,25 @@
+{
+  "name": "msg_server",
+  "version": "1.0.0",
+  "description": "null",
+  "main": "msgServer.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "ioredis": "^2.2.0",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node  msgServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "msg"
+  ],
+  "author": "no",
+  "license": "ISC"
+}
